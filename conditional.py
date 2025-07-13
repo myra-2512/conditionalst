@@ -26,3 +26,12 @@ else:
     print("i is greater than or equal to 15")
     print("This is an else block")
 print("I am neither part of if block nor else block")
+#Activity4
+number=int(input("Enter a number:"))
+print("The number given is:",number)
+
+if number%2==0:
+    print("The number is even")
+
+else:
+    print("The number is odd")
